@@ -1,4 +1,4 @@
-import requests.adapters
+import requests
 
 class TelegramNotifyBot:
     def __init__(self, token, user_id):

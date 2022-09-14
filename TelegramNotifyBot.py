@@ -3,7 +3,7 @@ import requests
 class TelegramNotifyBot:
     def __init__(self, token, user_id):
         """
-        Telegram Notify Bat is the main class for sending notifications via telegram.
+        Telegram Notify Bot is the main class for sending notifications via telegram.
 
         :param token: Your bot's access token in telegram.
         :param user_id: Your id in the telegram.

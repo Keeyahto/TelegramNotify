@@ -1,6 +1,5 @@
 import requests.adapters
 
-
 class TelegramNotifyBot:
     def __init__(self, token, user_id):
         """
